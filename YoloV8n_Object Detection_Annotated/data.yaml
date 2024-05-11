@@ -1,0 +1,16 @@
+path: ../datasets/roboflow
+
+train: train/images
+val: valid/images
+test: test/images
+
+names: 
+  0: Acne
+  1: Carcinoma
+  2: Dermatofibroma
+  3: Keratosis
+  4: Melanoma
+  5: Vascular Lesions
+  6: Vascular Tumors
+  7: Viral Infections
+  8: Warts
